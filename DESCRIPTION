@@ -18,3 +18,5 @@ RoxygenNote: 7.1.2
 Imports: 
     curl,
     jsonlite
+URL: https://github.com/xiayh17/proxy4you
+BugReports: https://github.com/xiayh17/proxy4you/issues
